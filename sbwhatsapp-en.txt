@@ -1,0 +1,6 @@
+Version 38 Changelog:
+
+> ➕{Added} You can post Status in linked device.
+> ➕{Added} See channels in linked device.
+> 🛠{Improved} More Anti-ban protection 🛡️.
+> 🛠{Fixed} Other fixes and improvements.
